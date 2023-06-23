@@ -1,0 +1,486 @@
+
+
+
+
+[
+    {
+        "id": "1",
+        "chefPicture": "https://i.ibb.co/2FJ6rYp/chef2.jpg",
+        "chefBannerPic": "https://i.ibb.co/wLNSYSB/nobg-chef1.png",
+        "chefName": "Kittichai",
+        "experience": "10 years",
+        "numberOfRecipes": 3,
+        "likes": 567,
+        "description": "Meet Ian Kittichai, a world-renowned Thai chef and restaurateur. With numerous Thai restaurants around the world, several cookbooks, and TV shows, Chef Ian is a true master of Thai cuisine.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chefPicture": "https://i.ibb.co/mvwpW4r/chef3.jpg",
+        "chefBannerPic": "https://i.ibb.co/b6ZyT4c/nobg-chef2.png",
+        "chefName": "Duangpon Songvisava",
+        "experience": "15 years",
+        "numberOfRecipes": 3,
+        "likes": 768,
+        "description": "Discover the flavors of traditional Thai cuisine with Chef Bo, the co-owner and chef at Bo.lan. Her dedication to using local, sustainable ingredients and preserving Thai culinary traditions has earned her restaurant a Michelin star.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chefPicture": "https://i.ibb.co/RQ4Wg5L/chef4.jpg",
+        "chefBannerPic": "https://i.ibb.co/74LJsDr/nobg-chef3.png",
+        "chefName": "Thaworn Ruksasook",
+        "experience": "8 years",
+        "numberOfRecipes": 3,
+        "likes": 896,
+        "description": "Experience the creativity of Chef Ton, the chef-owner of Le Du in Bangkok. His innovative approach to Thai cuisine has earned his restaurant multiple Michelin stars and made him a rising star in the culinary world.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "chefPicture": "https://i.ibb.co/ZS1R5Sj/chef5.jpg",
+        "chefBannerPic": "https://i.ibb.co/rt9Kk4T/nobg-chef4.png",
+        "chefName": "Andy Ricker",
+        "experience": "15 years",
+        "numberOfRecipes": 3,
+        "likes": 845,
+        "description": " Explore the vibrant flavors of Thai cuisine with Chef Andy, the founder of the Pok Pok restaurants. With numerous awards and accolades, Chef Andy has become a leading voice in Thai cooking.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "chefPicture": "https://i.ibb.co/hZq032k/chef6.jpg",
+        "chefBannerPic": "https://i.ibb.co/1Mm2325/nobg-chef5.png",
+        "chefName": "David Thompson",
+        "experience": "20 years",
+        "numberOfRecipes": 3,
+        "likes": 658,
+        "description": " Embark on a culinary journey with Chef David, the founder of Nahm in Bangkok. As an expert in Thai cuisine, Chef David is known for his passion for preserving traditional cooking methods and using fresh, local ingredients.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "chefPicture": "https://i.ibb.co/ZWwv0v8/chef7.jpg",
+        "chefBannerPic": "https://i.ibb.co/37RQxcD/nobg-chef6.png",
+        "chefName": "Nooror Somany",
+        "experience": "12 years",
+        "numberOfRecipes": 3,
+        "likes": 647,
+        "description": " Indulge in the rich, bold flavors of Thai cuisine with Chef Nooror, the founder of the Blue Elephant restaurants. With locations around the world, Chef Nooror is committed to promoting Thai culinary traditions and using only the finest ingredients.",
+        "recipeData": [
+            {   "id":1,
+                "recipeName": "Chicken Meatballs",
+                "ingredients": [
+                    "1 pound ground chicken",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped onion",
+                    "1 egg",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "cookingMethod": [
+                    "Preheat the oven to 400°F.",
+                    "In a large bowl, mix together the ground chicken, breadcrumbs, onion, egg, garlic, salt, and black pepper.",
+                    "Form the mixture into small meatballs and place them on a baking sheet.",
+                    "Bake for 20-25 minutes, or until the meatballs are cooked through and browned on the outside.",
+                    "Serve hot."
+                ],
+                "rating": 4.3,
+                "itemImage": "https://i.ibb.co/VWStvz4/meatball.jpg"
+            },
+            {   "id":2,
+                "recipeName": "Spicy Chilli and Basil Fried Rice",
+                "ingredients": [
+                    "2 cups cooked jasmine rice",
+                    "1 red bell pepper, diced",
+                    "1/2 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sriracha",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet over medium-high heat.",
+                    "Add the onion and red bell pepper and cook until softened, about 5 minutes.",
+                    "Add the garlic and cook for an additional minute.",
+                    "Add the cooked rice to the skillet and stir to combine with the vegetables.",
+                    "Add the soy sauce and sriracha and stir to combine.",
+                    "Add the chopped basil leaves and stir to combine.",
+                    "Serve hot."
+                ],
+                "rating": 4.7,
+                "itemImage": "https://i.ibb.co/ccvScQN/friedrice.jpg"
+            },
+            {   "id":3,
+                "recipeName": "Green Peppercorn Beef Stir-Fry",
+                "ingredients": [
+                    "1 lb. beef sirloin, sliced thinly",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons oyster sauce",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon fish sauce",
+                    "1 tablespoon sugar",
+                    "1/4 cup sliced green onions",
+                    "1/4 cup green peppercorns"
+                ],
+                "cookingMethod": [
+                    "Heat the vegetable oil in a large skillet or wok over high heat.",
+                    "Add the beef and stir-fry for 2-3 minutes, or until browned on the outside.",
+                    "Add the oyster sauce, soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+                    "Add the green onions and green peppercorns to the skillet and stir to combine.",
+                    "Stir-fry for an additional 2-3 minutes, or until the vegetables are tender and the beef is cooked through.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.5,
+                "itemImage": "https://i.ibb.co/KD232v6/beefFry.jpg"
+            }
+        ]
+    }
+]

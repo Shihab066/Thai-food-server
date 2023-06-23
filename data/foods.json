@@ -1,0 +1,57 @@
+[
+    { "id": 1,
+      "foodImage": "https://i.ibb.co/grxs3PV/Spicy-Chicken-Tacos.jpg",
+      "foodName": "Spicy Chicken Tacos",
+      "rating": 4.2,
+      "description": "These tacos are packed with flavor and spice! The juicy chicken is seasoned with a blend of spices and topped with a fresh salsa."
+    },
+    { "id": 2,
+      "foodImage": "https://i.ibb.co/VHRmMkX/Vegetable-Fried-Rice.jpg",
+      "foodName": "Vegetable Fried Rice",
+      "rating": 4.5,
+      "description": "This fried rice is loaded with colorful vegetables and fragrant aromatics. It's a tasty and healthy way to get your daily dose of veggies!"
+    },
+    { "id": 3,
+      "foodImage": "https://i.ibb.co/NptvXjN/Pesto-Pasta.jpg",
+      "foodName": "Pesto Pasta",
+      "rating": 4.8,
+      "description": "This creamy pasta dish is made with homemade pesto sauce and topped with freshly grated Parmesan cheese. It's the perfect comfort food!"
+    },
+    { "id": 4,
+      "foodImage": "https://i.ibb.co/N91c76w/Beef-Stir-Fry.jpg",
+      "foodName": "Beef Stir-Fry",
+      "rating": 4.2,
+      "description": "This stir-fry is made with tender strips of beef and a colorful array of veggies. It's a quick and easy dinner that's perfect for busy weeknights."
+    },
+    { "id": 5,
+      "foodImage": "https://i.ibb.co/fGMwFJ6/Caprese-Salad.jpg",
+      "foodName": "Caprese Salad",
+      "rating": 4.6,
+      "description": "This classic Italian salad is made with fresh mozzarella, ripe tomatoes, and fragrant basil. It's a simple and delicious way to showcase the flavors of summer!"
+    },
+    { "id": 6,
+      "foodImage": "https://i.ibb.co/P5zgK4w/Mushroom-Risotto.jpg",
+      "foodName": "Mushroom Risotto",
+      "rating": 4.4,
+      "description": "This creamy risotto is made with tender mushrooms and a splash of white wine. It's a comforting and satisfying dish that's perfect for chilly evenings."
+    },
+    { "id": 7,
+      "foodImage": "https://i.ibb.co/xjGYyJm/Lemon-Garlic-Shrimp.jpg",
+      "foodName": "Lemon Garlic Shrimp",
+      "rating": 4.3,
+      "description": "These succulent shrimp are cooked in a garlicky lemon butter sauce and served over a bed of fluffy white rice. It's a restaurant-worthy meal that's easy to make at home!"
+    },
+    { "id": 8,
+      "foodImage": "https://i.ibb.co/JjwV4sc/Sushi-Rolls.jpg",
+      "foodName": "Sushi Rolls",
+      "rating": 4.7,
+      "description": "These sushi rolls are packed with fresh ingredients like avocado, cucumber, and crab meat. They're a healthy and delicious way to enjoy sushi at home!"
+    },
+    { "id": 9,
+      "foodImage": "https://i.ibb.co/RzHxTQc/Roasted-Chicken.jpg",
+      "foodName": "Roasted Chicken",
+      "rating": 4.1,
+      "description": "This roasted chicken is seasoned with fragrant herbs and spices and served with a side of roasted vegetables. It's a classic dinner that never goes out of style!"
+    }
+]
+  
